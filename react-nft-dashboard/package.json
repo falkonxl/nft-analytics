@@ -10,6 +10,7 @@
     "axios": "^0.24.0",
     "chart.js": "^3.6.0",
     "cra-template": "1.1.2",
+    "dotenv": "^16.0.0",
     "html-react-parser": "^1.4.0",
     "millify": "^4.0.0",
     "moment": "^2.29.1",
